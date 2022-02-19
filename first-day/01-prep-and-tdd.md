@@ -72,3 +72,29 @@ catch() is invoked when a promise is either rejected or some error has occurred 
     setTimeout(() => { 
         console.log("This message is shown after 3 seconds");
     }, 3000);
+
+## Test-Driven Development
+
+#### Testing:
+
+1. Testing is verifying our application does what it should.
+2. There are two types of tests: manual and automated.
+3. Tests assert that your program will behave a certain way. 
+4. Then the test itself proves or disproves that assertion.
+   
+#### Test-Driven Development
+Test-driven development is the act of first deciding what you want your program to do (the specifications), formulating a failing test, then writing the code to make that test pass. It is most often associated with automated testing. Although you could apply the principals to manual testing as well.
+**With TDD, test logic precedes application logic.**
+**Project setup**
+
+1. Create an NPM project: npm init.
+2. Create id.js and add it to the project’s root.
+3. Install Jest: npm install jest --D
+4. Update the package.json test script
+
+**How Do We Write a Test?**
+Tests are just functions that receive a couple of arguments. We can call our test with either it() or test().
+*Recap*
+Jest is a testing suite and has a built-in assertion library.
+A test is just a function whose arguments define the test.
+Specifications define what our code should do and are ultimately what we test.
