@@ -7,3 +7,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 | **Section No.** | **Section Title**                      |
 | --------------- | -------------------------------------- |
 | 1               | [Day-01](./first-day/01-prep-and-tdd.md) |
+| 1               | [Day-02](./sec-day/02-read.md) |
