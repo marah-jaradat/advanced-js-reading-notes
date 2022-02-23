@@ -20,7 +20,7 @@ is the process of creating a data model for the data to be stored in a database.
 - The information in the data model can be used for defining the relationship between tables, primary and foreign keys, and stored procedures.
 - Data Model helps business to communicate the within and across organizations.
 - Data model helps to documents data mappings in ETL process
-- Help to recognize correct sources of data to populate the model
+- sHelp to recognize correct sources of data to populate the model
 
 **Disadvantages of Data model:**
 
