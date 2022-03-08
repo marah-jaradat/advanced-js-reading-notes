@@ -12,7 +12,9 @@
 5. provides applications the ability for “secure designated access.”
 
 ### Document the following Vocabulary Terms
+
 Term: 
+
 - Client ID: also referred to as a UCI, is on all documents you get from us. It is an eight or ten-digit number that looks like this: 0000-0000 or 00-0000-0000. If you are applying to us for the first time, you will not yet have a client ID.
   
 - Client Secret: is a secret known only to your application and the authorization server. It protects your resources by only granting tokens to authorized requestors. 
@@ -30,6 +32,7 @@ Term:
 ### Preview
 
 #### What is JSON Web Token?
+
 JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
 
 When should you use JSON Web Tokens?
@@ -47,6 +50,7 @@ Payload
 Signature
 
 #### Review questions
+
 1. Which 3 things had you heard about previously and now have better clarity on? no one of them
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 3. Tokens and JWT
