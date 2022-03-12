@@ -1,4 +1,4 @@
-# 20-2-2022- First class reading notes:
+# 12-March-2022- eighth class reading notes:
 
 ## Authorization/Authentication:
 
@@ -20,6 +20,7 @@
     We strongly recommend that you use middleware or one of the existing open source third-party libraries to parse and validate JWTs. At JWT.io, you can find libraries for various platforms and languages, such as .NET, Python, Java, Ruby, Objective-C, Swift, and PHP.
 
 ## Document the following Vocabulary Terms
+
  **RBAC**: also known as role-based security, is an access control method that assigns permissions to end-users based on their role within your organization. RBAC provides fine-grained control, offering a simple, manageable approach to access management that is less error-prone than individually assigning permissions. 
 
  **User roles**: is a property of a BIG-IP® administrative user account. For each BIG-IP user account, you can assign a different user role to each administrative partition to which you the user has access. This allows you to assign multiple user roles to each user account on the system.
