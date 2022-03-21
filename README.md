@@ -17,4 +17,5 @@ This repo is prepared for all the observations through the 401 level. it will be
 | 9               | [Day-09](./ninth-day/09-readme.md) |
 |10               | [Day-10](./10th-day/10-readme.md) |
 |11               | [Day-11](./11th-day/11-readme.md) |
+|12               | [Day-12](./12-day/12-readme.md) |
 
