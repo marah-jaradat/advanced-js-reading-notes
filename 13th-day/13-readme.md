@@ -40,6 +40,10 @@ A “perfect” binary tree is one where every non-leaf node has exactly two chi
 
 ### Useful links
 
-[intro to trees](https://medium.com/@iampika/javascript-trees-b8f3b4261c3a)
-[video of trees](https://www.youtube.com/watch?v=qH6yxkw0u78&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=26)
-[tutorial of three parts about trees](https://www.youtube.com/watch?v=r8drVrKgVZk)
+* [intro to trees](https://medium.com/@iampika/javascript-trees-b8f3b4261c3a)
+
+
+* [video of trees](https://www.youtube.com/watch?v=qH6yxkw0u78&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=26)
+
+
+* [tutorial of three parts about trees](https://www.youtube.com/watch?v=r8drVrKgVZk)
