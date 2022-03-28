@@ -19,3 +19,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |11               | [Day-11:Socket.io](./11th-day/11-readme.md) |
 |12               | [Day-12:Message Queues](./12-day/12-readme.md) |
 |13               | [Day-13:Trees](./13th-day/13-readme.md) |
+|14               | [Day-14:AWS](./14th-day/14-readme.md) |
