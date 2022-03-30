@@ -71,7 +71,7 @@ While AWS Lambda has many advantages, there are a few things you should know bef
 3. Not always cost-effective
 4. Limited number of supported runtimes
 
-[more details:] (https://www.serverless.com/aws-lambda#toc6)
+[more details:](https://www.serverless.com/aws-lambda#toc6)
 
 
 #### Content Delivery Network (CDN)
@@ -83,4 +83,4 @@ CDNs work through servers nearest to the website visitor respond to the request.
 What does this mean for an SMB?
 CDNs are something that larger companies are more likely to implement. The main reasons why company want to use CDNs are to improve Internet website load speeds, content delivery speeds, and to reduce the likelihood of falling victim to and improve defenses against Distributed Denial of Service attacks (DDoS).
 
-[more details:] (https://www.youtube.com/watch?v=Bsq5cKkS33I&t=2s)
+[more details:](https://www.youtube.com/watch?v=Bsq5cKkS33I&t=2s)
