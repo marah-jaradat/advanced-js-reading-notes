@@ -20,4 +20,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |12               | [Day-12:Message Queues](./12-day/12-readme.md) |
 |13               | [Day-13:Trees](./13th-day/13-readme.md) |
 |14               | [Day-14:AWS](./14th-day/14-readme.md) |
-|15               | [Day-15:AWS](./15th-day/15-readme.md) |
+|15               | [Day-15:AWS: S3 and Lambda](./15th-day/15-readme.md) |
