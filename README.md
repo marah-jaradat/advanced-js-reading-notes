@@ -24,3 +24,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |16               | [Day-16:AWS: API, Dynamo and Lambda](./16th-day/16-readme.md) |
 |17               | [Day-26:introduction to REACT](./17th-day/17-readme.md) |
 |18               | [Day-27:useState() Hook](./18th-day/18-readme.md) |
+|19               | [Day-28:Component Lifecycle / useEffect() Hook](./19th-day/19-readme.md) |
