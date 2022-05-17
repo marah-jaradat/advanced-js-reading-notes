@@ -64,5 +64,5 @@ The useContext is the React hook, used in context API to consume the context sta
 
 [gh-pages](https://marah-jaradat.github.io/advanced-js-reading-notes/)
 
-[My-repo](https://github.com/marah-jaradat/advanced-js-reading-notes/blob/main/24th-day/24-readme.md)
+[My-repo](https://github.com/marah-jaradat/advanced-js-reading-notes/blob/gh-pages/24th-day/24-readme.md)
 
