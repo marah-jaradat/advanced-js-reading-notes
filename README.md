@@ -30,3 +30,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |21               | [Day-30:Hash Tables](./21th-readme/21-readme.md) |
 |22               | [Day-31:Context API](./22th-day/22-readme.md) |
 |23               | [Day-32:Context API behavior](./23th-day/23-readme.md) |
+|24               | [Day-33:more about Context API behavio](./24th-day/24-readme.md) |
