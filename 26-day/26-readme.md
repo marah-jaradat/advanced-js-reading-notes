@@ -64,5 +64,4 @@ Our business is expanding! We have a real need to manage a list of users of many
 
 [gh-pages](https://marah-jaradat.github.io/advanced-js-reading-notes/)
 
-[My-repo](https://github.com/marah-jaradat/advanced-js-reading-notes/blob/main/26th-day/26-readme.md)
-
+[My-repo](https://github.com/marah-jaradat/advanced-js-reading-notes/blob/gh-pages/26th-day/26-readme.md)
