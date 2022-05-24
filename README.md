@@ -33,3 +33,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |24               | [Day-32:more about Context API behavio](./24th-day/24-readme.md) |
 |25               | [Day-33:<Login/ and <Auth/](./25th-day/25-readme.md) |
 |26               | [Day-34:API Integration](./26-day/26-readme.md) |
+|27               | [Day-35:Implementation: Graphs](./27-day/27-readme.md) |
