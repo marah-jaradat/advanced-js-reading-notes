@@ -31,3 +31,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |22               | [Day-31:Context API](./22th-day/22-readme.md) |
 |23               | [Day-32:Context API-Behaviors](./23th-day/23-readme.md) |
 |24               | [Day-34:API Integration](./26-day/26-readme.md) |
+|25               | [Day-35:redux-Combined Reducers](./27-day/27-readme.md) |
