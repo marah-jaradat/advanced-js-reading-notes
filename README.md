@@ -36,3 +36,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |27               | [Day-35:Implementation: Graphs](./27-day/27-readme.md) |
 |28               | [Day-36:Application State with Redux](./28-day/28-readme.md) |
 |29               | [Day-37:Redux - Combined Reducers](./29-day/29-readme.md) |
+|30               | [Day-38:Redux - Asynchronous Actions](./30-day/30-readme.md) |
