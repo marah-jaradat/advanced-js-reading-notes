@@ -67,3 +67,9 @@ Software engineers shall commit themselves to making the analysis, specification
 7. COLLEAGUES – Software engineers shall be fair to and supportive of their colleagues.
 
 8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
+
+
+
+[gh-pages](https://marah-jaradat.github.io/advanced-js-reading-notes/)
+
+[My-repo](https://github.com/marah-jaradat/advanced-js-reading-notes/blob/gh-pages/33-day/33-readme.md)
