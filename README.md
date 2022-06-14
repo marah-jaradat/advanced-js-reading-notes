@@ -40,3 +40,4 @@ This repo is prepared for all the observations through the 401 level. it will be
 |31               | [Day-39:Redux - Additional Topics](./31-day/31-readme.md) |
 |32               | [Day-41:React Native](./32-day/32-readme.md) |
 |33               | [Day-42:Ethics](./33-day/33-readme.md) |
+|34               | [Day-44:Open-Source Software Contribution](./34-day/34-readme.md) |
