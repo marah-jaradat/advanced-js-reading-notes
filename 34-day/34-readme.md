@@ -42,7 +42,9 @@ In the same way contributing to OSS can help you increase your chances of landin
 
 
 [github-open-source](https://github.com/open-source)
+
 [projects](https://github.com/search?q=label%3Agood-first-issue+archived%3Afalse)
+
 [firstSource](https://www.firsttimersonly.com/)
 
 [gh-pages](https://marah-jaradat.github.io/advanced-js-reading-notes/)
